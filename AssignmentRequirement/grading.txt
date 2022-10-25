@@ -1,0 +1,102 @@
+111111111111111111111111111111111111111111111111111111111111111111111111111111
+Question	overall score	grading details					
+1	10	1.1	run without any errors				
+		1.2	solutions can be obtained				
+		1.3	solution is correct				
+		1.4	display correctly				
+2	15	2.1	run without any errors				
+		2.2	reverse order can be obtained				
+		2.3	order is correct				
+		2.4	apply to any integers				
+		2.5	display correctly				
+3	15	3.1	run without any errors				
+		3.2	n can be obtained correctly				
+4	15	4.1	run without any errors				
+		4.2	N should not be negative				
+		4.3	N should not be a string				
+		4.4	N should not be a floating number				
+		4.5	display correctly				
+		4.6	proper?column?alignment				
+5	20	5.1	run without any errors				
+		5.2	N should not be negative				
+		5.3	N should not be a string				
+		5.4	N should not be a floating number				
+		5.5	print all the prime numbers which are smaller than N				
+		5.6	output at most 8 prime in each line				
+6	25	6.1	run without any errors				
+		6.2	N should be positive				
+		6.3	N should not be a string				
+		6.4	N should not be a floating number				
+		6.5	a and b should not be strings				
+		6.6	b should not be less than a				
+		6.7	"f should only be sin, cos or tan"				
+		6.8	solutions can be obtained correctly 			
+
+
+222222222222222222222222222222222222222222222222222222222222222222222222222222
+1	10	1.1	run without errors
+		1.2	can correctly get result of square of n (n should be greater than 0)
+
+2	15	2.1	run without errors
+		2.2	all emirp numbers can be got correctly
+		2.3	Display 10 numbers per line
+		2.4	align the numbers properly
+
+3	15	3.1	run without errors
+		3.2	sumOfDoubleEvenPlace() function is defined correctly
+		3.3	getDigit() function is defined correctly
+		3.4	sumOfOddPlace() function is defined correctly
+		3.5	isValid() function is defined correctly
+		3.6	can correctly check whether the number is valid or invalid
+		3.7	the returned "value" from isValid() function should be True/False of boolean type.?
+
+
+4	15	4.1	run without errors
+		4.2	can correctly check whether two words are anagrams
+
+5	20	5.1	run without errors
+		5.2	can correctly clockers that are open
+
+6	25	6.1	run without errors
+		6.2	At least one solution with correct positions for eight queens can be got
+		6.3	display the pattern correctly
+
+
+33333333333333333333333333333333333333333333333333333333333333333333333333
+Question	overall score	grading details					mark
+1	20	1.0	run without any errors			
+		1.1	initializer is defined correctly			
+		1.2	three setters are defined correctly			
+		1.3	three getters are defined correctly			
+		1.4	improper input can be handled when create an object			
+		1.5	improper input can be handled when call the settor method			
+			
+							
+							
+2	40	2.0	run without any errors				
+		2.1	constant term can be handled correctly				
+		2.2	"the variable is not necessarily ��x', it could be 'y' or others."				
+		2.3	solutions can be obtained correctly 				
+
+"				
+							
+							
+3	40	3.0	run without any errors			
+		3.1	the moving of each animal is defined randomly and correctly			
+		3.2	the result of each movement can be correctly obtained			
+		3.3	"Initially, animals are allocated randomly in the river"			
+		3.4	the class you defined has proper initializer			
+		3.5	solutions can be obtained correctly 				
+			"If the rules is not clearly defined in question description, student can define a reasonable one for movement, no points would be deducted for this.
+
+
+444444444444444444444444444444444444444444444444444444444444444444444444444444
+Question	Overall score	Grading details	
+1	20	1.1	Run without any errors	
+		1.2	Get the node numbers correctly	
+2	30	2.1	Run without any errors	
+		2.2	Sorted result is correct	
+		2.3	"Use single linked list to implement sorting, not standard list"	
+3	50	3.0	Submission of not empty file	
+		3.1	Run without any errors	
+		3.2	"Correct and Non-recursive(for recursive -10, for slightly wrong -5)"	
