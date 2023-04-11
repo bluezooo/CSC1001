@@ -1,2 +1,2 @@
 # CSC1001
-python basics
+## Introduction to Programming
